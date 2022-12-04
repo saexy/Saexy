@@ -13,7 +13,7 @@
   <img align="center" alt="Nickolas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
 
-## Frameworks
+## Frameworks and Lib's
 <div style="display: flex;"><br>
   <img align="center" alt="Nickolas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nickolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
